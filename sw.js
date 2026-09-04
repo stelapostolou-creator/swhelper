@@ -1,5 +1,5 @@
 /* SWHelper service worker — offline app shell (by ZS-Top) */
-var CACHE = 'swhelper-v1';
+var CACHE = 'swhelper-v2';
 var SHELL = [
   './', './index.html', './swmaps.js',
   './manifest.webmanifest', './assets/zstop-logo.png', './assets/aviyaan-logo.png', './assets/softwel-logo.png',
